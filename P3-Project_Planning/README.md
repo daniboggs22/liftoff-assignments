@@ -1,5 +1,5 @@
 # Project Planning
-For this assignment, you'll create some initial plans for your project.
+For this assignment, you'll create some initial plans for your project.g
 
 ## Assignment Description
 [Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
@@ -9,6 +9,9 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
++Login Page
++Home Page
++Add Recipe Page
 
 ### Project Tracker
 
