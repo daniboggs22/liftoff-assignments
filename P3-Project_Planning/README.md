@@ -1,5 +1,5 @@
 # Project Planning
-For this assignment, you'll create some initial plans for your project.g
+For this assignment, you'll create some initial plans for your project.
 
 ## Assignment Description
 [Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
@@ -9,9 +9,9 @@ For this assignment, you'll create some initial plans for your project.g
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-+[Login page wireframe]
-+[Home Page Wireframe]
-+[Add Recipe Page Wireframe]
++[Login page wireframe](https://github.com/daniboggs22/liftoff-assignments/blob/master/P3-Project_Planning/Recipe_Wireframes/Recipe%20Website-Login%20page.drawio.pdf)
++[Home Page Wireframe](https://github.com/daniboggs22/liftoff-assignments/blob/master/P3-Project_Planning/Recipe_Wireframes/Recipe%20Website-%20Home%20Page.drawio.pdf)
++[Add Recipe Page Wireframe](https://github.com/daniboggs22/liftoff-assignments/blob/master/P3-Project_Planning/Recipe_Wireframes/Recipe%20Website-%20Add%20Recipe.drawio.pdf)
 ### Project Tracker
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
@@ -19,4 +19,4 @@ Include a link to your public Trello board. Be sure you have user stories added 
 ### Project Repo Link
 
 Include a link to your project on GitHub.
-[Github Link]()
+[Github Link](https://github.com/Apr-23-LC-LiftOff-STL/Meal-planner.git)
