@@ -19,4 +19,4 @@ Include a link to your public Trello board. Be sure you have user stories added 
 ### Project Repo Link
 
 Include a link to your project on GitHub.
-[Github Link](https://github.com/Apr-23-LC-LiftOff-STL/Meal-planner.git)
+[Github Link](https://github.com/Apr-23-LC-LiftOff-STL/Recipe-Hive)
